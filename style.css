@@ -1,8 +1,12 @@
-span.negrita{
+span.titulo{
     font-size: 5ex;
     font-family: fantasy;
 }
 p.title{
     background-color: black;
     color: yellow;
+    text-align: center;
+}
+span.negrita{
+    font-weight: bold;
 }
