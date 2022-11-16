@@ -18,8 +18,8 @@ h1{
     font-weight: lighter;
     font-size: 30px;
 }
-p{
-    background-color: aqua;
+body{
+    background-color: darkturquoise;
 }
 h2{
     background-color: black;
