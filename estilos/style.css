@@ -18,3 +18,14 @@ h1{
     font-weight: lighter;
     font-size: 30px;
 }
+p{
+    background-color: aqua;
+}
+h2{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 30px;
+}
