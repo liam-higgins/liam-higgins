@@ -33,3 +33,11 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+h3{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 30px;
+}
